@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">A Passionate Data Scientist & Machine Learning Enthusiast</h3>
 
-- 🔭 I’m currently working on **🧠 Neural Networks for Breast Cancer Diagnosis**
+- 🧠  I’m currently working on **Neural Networks for Breast Cancer Diagnosis**
 
 - 🌱 I’m currently learning **Deep Learning & Advanced Machine Learning Techniques**
 
