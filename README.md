@@ -16,14 +16,11 @@
 - ⚡ Fun fact **I love running and analyzing data-sometimes at the same time!**
 ## 🏆 Proyectos Destacados  
 
-## 🚀 Algunos de mis Proyectos
-
 <table>
   <tr>
     <td align="center">
       <h3>🏦 Loan Approval Prediction</h3>
       <a href="https://github.com/yourusername/loan_approval">
-        <img src="https://raw.githubusercontent.com/yourusername/loan_approval/main/images/project-banner.png" width="400px" />
       </a>
       <p>Predicción de aprobación de préstamos usando Machine Learning.</p>
       <a href="https://github.com/yourusername/loan_approval">
@@ -31,39 +28,17 @@
       </a>
     </td>
     <td align="center">
-      <h3>🩺 Breast Cancer Classification</h3>
-      <a href="https://github.com/yourusername/breast-cancer-ai">
-        <img src="https://raw.githubusercontent.com/yourusername/breast-cancer-ai/main/images/breast-cancer.png" width="400px" />
+      <h3>📊 Bank Churn Prediction</h3>
+      <a href="https://github.com/yourusername/bank_churn">
       </a>
-      <p>Detección de cáncer de mama con imágenes.</p>
-      <a href="https://github.com/yourusername/breast-cancer-ai">
-        <img src="https://img.shields.io/badge/Código-000000?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>📊 Time Series Forecasting</h3>
-      <a href="https://github.com/yourusername/time-series-msci">
-        <img src="https://raw.githubusercontent.com/yourusername/time-series-msci/main/images/time-series.png" width="400px" />
-      </a>
-      <p>Predicción de tendencias en mercados financieros.</p>
-      <a href="https://github.com/yourusername/time-series-msci">
-        <img src="https://img.shields.io/badge/Código-000000?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-    <td align="center">
-      <h3>🔐 Encriptador César</h3>
-      <a href="https://github.com/yourusername/cesar-cipher">
-        <img src="https://raw.githubusercontent.com/yourusername/cesar-cipher/main/images/cesar-cipher.png" width="400px" />
-      </a>
-      <p>Proyecto de cifrado basado en el método de César.</p>
-      <a href="https://github.com/yourusername/cesar-cipher">
+      <p>Predicción de abandono de clientes bancarios con ML.</p>
+      <a href="https://github.com/yourusername/bank_churn">
         <img src="https://img.shields.io/badge/Código-000000?style=for-the-badge&logo=github"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 <h3 align="left">Connect with me:</h3>
