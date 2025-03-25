@@ -20,10 +20,10 @@
   <tr>
     <td align="center">
       <h3>🏦 Loan Approval Prediction</h3>
-      <a href="https://github.com/yourusername/loan_approval">
+      <a href="https://github.com/eliaspal/loan_approval">
       </a>
       <p>Predicción de aprobación de préstamos usando Machine Learning.</p>
-      <a href="https://github.com/yourusername/loan_approval">
+      <a href="https://github.com/eliaspal/loan_approval">
         <img src="https://img.shields.io/badge/Código-000000?style=for-the-badge&logo=github"/>
       </a>
     </td>
