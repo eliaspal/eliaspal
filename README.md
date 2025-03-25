@@ -26,7 +26,11 @@
       <a href="https://github.com/eliaspal/loan_approval">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github"/>
       </a>
-    </td>
+  <br/>
+  <a href="https://loanapprovalelias.streamlit.app/">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit"/>
+  </a>
+</td>
     <td align="center">
       <h3>🏦Bank Churn Prediction</h3>
       <a href="https://github.com/eliaspal/bank-churn">
