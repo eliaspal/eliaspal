@@ -22,7 +22,7 @@
       <h3>🏦 Loan Approval Prediction</h3>
       <a href="https://github.com/eliaspal/loan_approval">
       </a>
-      <p>Predicción de aprobación de préstamos usando Machine Learning.</p>
+      <p>Loan approval prediction using Machine Learning.</p>
       <a href="https://github.com/eliaspal/loan_approval">
         <img src="https://img.shields.io/badge/Código-000000?style=for-the-badge&logo=github"/>
       </a>
@@ -31,7 +31,7 @@
       <h3>📊 Bank Churn Prediction</h3>
       <a href="https://github.com/eliaspal/bank-churn">
       </a>
-      <p>Predicción de abandono de clientes bancarios con ML.</p>
+      <p>Predicting bank churn with Machine Learning.</p>
       <a href="https://github.com/eliaspal/bank-churn">
         <img src="https://img.shields.io/badge/Código-000000?style=for-the-badge&logo=github"/>
       </a>
