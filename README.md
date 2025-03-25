@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning & Advanced Machine Learning Techniques**
 
-- 👯 I’m looking to collaborate on **Kaggle Competitions**
+- 👯 I’m looking to collaborate on **Hackathon Competitions**
 
 - 🤝 I’m looking for help with **Optimizing Deep Learning Models for Medical Imaging**
 
