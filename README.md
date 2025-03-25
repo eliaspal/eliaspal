@@ -29,10 +29,10 @@
     </td>
     <td align="center">
       <h3>📊 Bank Churn Prediction</h3>
-      <a href="https://github.com/eliaspal/bank_churn">
+      <a href="https://github.com/eliaspal/bank-churn">
       </a>
       <p>Predicción de abandono de clientes bancarios con ML.</p>
-      <a href="https://github.com/eliaspal/bank_churn">
+      <a href="https://github.com/eliaspal/bank-churn">
         <img src="https://img.shields.io/badge/Código-000000?style=for-the-badge&logo=github"/>
       </a>
     </td>
