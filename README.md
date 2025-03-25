@@ -19,26 +19,50 @@
 <table>
   <tr>
     <td align="center">
-      <h3>🏦 Loan Approval Prediction</h3>
+      <h3>💳Loan Approval Prediction</h3>
       <a href="https://github.com/eliaspal/loan_approval">
       </a>
       <p>Loan approval prediction using Machine Learning.</p>
       <a href="https://github.com/eliaspal/loan_approval">
-        <img src="https://img.shields.io/badge/Código-000000?style=for-the-badge&logo=github"/>
+        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github"/>
       </a>
     </td>
     <td align="center">
-      <h3>📊 Bank Churn Prediction</h3>
+      <h3>🏦Bank Churn Prediction</h3>
       <a href="https://github.com/eliaspal/bank-churn">
       </a>
       <p>Predicting bank churn with Machine Learning.</p>
       <a href="https://github.com/eliaspal/bank-churn">
-        <img src="https://img.shields.io/badge/Código-000000?style=for-the-badge&logo=github"/>
+        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github"/>
       </a>
     </td>
   </tr>
 </table>
 
+## 🚧 Work in Progress
+
+<table>
+  <tr>
+  <td align="center">
+      <h3>🛵 Delivery Time Prediction (DoorDash)</h3>
+      <a href="https://github.com/eliaspal/Delivery-Time_DoorDash">
+      </a>
+      <p>Analyzing delivery time for DoorDash orders with regression models. Project under development.</p>
+      <a href="https://github.com/eliaspal/bank-churn">
+        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github"/>
+       </a>
+    </td>
+    <td align="center">
+      <h3>🩻 Mammography Classification</h3>
+      <a href="https://github.com/eliaspal/Mammography_Classification-">
+      </a>
+      <p>Classifying mammograms using deep learning techniques. Work in progress.</p>
+      <a href="https://github.com/eliaspal/bank-churn">
+        <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="left">Connect with me:</h3>
