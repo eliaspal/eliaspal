@@ -48,7 +48,7 @@
       <a href="https://github.com/eliaspal/Delivery-Time_DoorDash">
       </a>
       <p>Analyzing delivery time for DoorDash orders with regression models. Project under development.</p>
-      <a href="https://github.com/eliaspal/bank-churn">
+      <a href="https://github.com/eliaspal/Delivery-Time_DoorDash">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github"/>
        </a>
     </td>
@@ -57,7 +57,7 @@
       <a href="https://github.com/eliaspal/Mammography_Classification-">
       </a>
       <p>Classifying mammograms using deep learning techniques. Work in progress.</p>
-      <a href="https://github.com/eliaspal/bank-churn">
+      <a href="https://github.com/eliaspal/Mammography_Classification-">
         <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github"/>
       </a>
     </td>
