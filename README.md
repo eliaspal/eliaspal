@@ -14,7 +14,7 @@
 - 📫 How to reach me **eliaspal013@gmail.com**
 
 - ⚡ Fun fact **I love running and analyzing data-sometimes at the same time!**
-## 🏆 Proyectos Destacados  
+## 🏆 HIGHLIGHTED PROJECTS 
 
 <table>
   <tr>
@@ -39,7 +39,7 @@
   </tr>
 </table>
 
-## 🚧 Work in Progress
+## 🚧 WORK IN PROGRESS
 
 <table>
   <tr>
